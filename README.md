@@ -35,7 +35,6 @@ Maximización de retorno ajustado por EVA ajustado por la covarianza del mercado
 
 $$\max_{w} \quad w^T \mathbf{S}_{\text{EVA}} - \lambda \left( w^T \mathbf{\Sigma} w \right)$$
 
-$$\text{Sujeto a:} \quad \sum_{i=1}^{n} w_i = 1, \quad 0 \le w_i \le 0.40, \quad \text{VaR}_{95\%}(w) \le \text{VaR}_{\text{máximo}}$$
 
 ---
 
