@@ -1,3 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
 # Python
 __pycache__/
 *.py[cod]
