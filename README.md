@@ -8,7 +8,7 @@
 
 Este proyecto integra herramientas de **Finanzas Corporativas Avanzadas** (Economic Value Added - EVA, WACC y Ecuación de Hamada para desapalancamiento de Beta) con **Teoría Cuantitativa de Portafolios y Gestión de Riesgo de Mercado** (Value at Risk - VaR Paramétrico y Monte Carlo).
 
-El objetivo principal es resolver un modelo de optimización cuadrática que maximice la creación de valor económico ($EVA\text{ Spread}$) sujeto a límites de riesgo de cola ($VaR_{95\%}$) para una muestra representativa de activos de alta capitalización (`NVDA`, `MSFT`, `AMZN`, `BRK.B`, `XOM`).
+El objetivo principal es resolver un modelo de optimización cuadrática que maximice la creación de valor económico sujeto a límites de riesgo de cola ($VaR_{95\%}$) para una muestra representativa de activos de alta capitalización (`NVDA`, `MSFT`, `AMZN`, `BRK.B`, `XOM`).
 
 ---
 
